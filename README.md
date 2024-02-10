@@ -20,8 +20,10 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=haungkhaung&show_icons=true&locale=en" alt="haungkhaung" /></p>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=haungkhaung&" alt="haungkhaung" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=haungkhaung&show_icons=true&locale=en&layout=compact" alt="haungkhaung" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=haungkhaung&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en&layout=compact" alt="haungkhaung" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haungkhaung&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en" alt="haungkhaung" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haungkhaung&theme=dark" alt="haungkhaung" /></p>
 
 
