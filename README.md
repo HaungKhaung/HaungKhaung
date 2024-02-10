@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/haung khaung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="haung khaung" height="30" width="40" /></a>
-<a href="https://instagram.com/haung khaung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="haung khaung" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/haung.khaung.9?mibextid=2jq9oc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/haung.khaung.9?mibextid=2jq9oc" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/joseph_jz16?igsh=mxv0c291m283zxn3mq==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/joseph_jz16?igsh=mxv0c291m283zxn3mq==" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -20,10 +20,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=haungkhaung&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en&layout=compact" alt="haungkhaung" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haungkhaung&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en" alt="haungkhaung" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haungkhaung&theme=dark" alt="haungkhaung" /></p>
-
 
